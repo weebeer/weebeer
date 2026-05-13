@@ -11,9 +11,9 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou **Especialista em Sankhya ERP** com profundidade técnica em desenvolvimento de customizações com **Java e SQL**. Dashboards, BIs, integrações e automações. ***Vivo no ecossistema Sankhya***.
+Sou **Especialista em Sankhya ERP** e **Desenvolvedor FullStack**.
 
-Também atuo como **Desenvolvedor de Soluções Mobile e Web**.
+***Vivo no ecossistema Sankhya***.
 
 Fundador da **WeberLabs Tecnologia LTDA** — Consultoria Especializada em Sankhya e Desenvolvimento de Apps sob medida.
 
