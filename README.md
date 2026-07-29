@@ -87,7 +87,6 @@ Fundador da **WeberLabs Tecnologia LTDA** — Consultoria Especializada em Sankh
 
 ### 🎯 No radar
 
-- 🚀 **WeberLabs em operação** — Consultoria Especializada e Desenvolvimento de Produtos no ecossistema **Sankhya ERP**
 - 📱 **Hub Apps Sankhya** — Aplicações para elevar a sua **experiência** e **resultados** de forma rápida e eficaz
 - 🛠️ **Produtos em Desenvolvimento** — Módulos de Produção, Logística e Compras. Soluções feitas sob medida com tecnologia de ponta.
 
