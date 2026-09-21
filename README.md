@@ -13,8 +13,6 @@
 
 Sou **Especialista em Sankhya ERP** e **Desenvolvedor Mobile & Web**.
 
-***Vivo no ecossistema Sankhya***.
-
 Fundador da **WeberLabs Tecnologia LTDA** — Consultoria Especializada em Sankhya e Desenvolvimento de Apps sob medida.
 
 ---
